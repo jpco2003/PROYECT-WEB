@@ -11,6 +11,6 @@ tiene : index.html, contact.html y emtre otros.
 ## EJEMPLOS HTML
 
 para añadir un bloque de codigo html se usa el siguiente ejemplo
-´´´
+<!-- 
 <html></html>
-´´´
+-->
