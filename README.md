@@ -2,7 +2,7 @@
 
 este proyecto es un sitio web para el restaurante paquita
 
-tiene : index.html, contact.html y emtre otros.
+tiene : `index.html`, `contact.html` y emtre otros.
 
 ## Documentacion
 - el archivo confiiiig.config que puertos se van abrir para este proyecto
